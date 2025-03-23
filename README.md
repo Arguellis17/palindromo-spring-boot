@@ -8,7 +8,6 @@ Un palíndromo es una palabra que se lee igual de derecha a izquierda como de iz
 4. El endpoint debe devolver un mensaje claro indicando si la palabra es un palíndromo o no
 5. Utiliza buenas prácticas de codificación y nombra adecuadamente tus clases y métodos
 
-## Clona esta repositorio!
-´´bash
-git clone
-´´
+## Clona esta repositorio
+```sh
+git clone https://github.com/Arguellis17/palindromo-spring-boot.git
